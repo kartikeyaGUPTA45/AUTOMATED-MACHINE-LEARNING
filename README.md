@@ -16,3 +16,7 @@ Secondly deciding which model is the best for your problem often requires more e
 Auto ML tends to automate the maximum number of steps in an ML pipeline - with a minimum amount of human effort and without compromising the model's performance.
 
 # BENEFITS OF AUTOML:
+1. Applying machine learning models to our problems usually requires computer science skills, domain expertise, and mathematical expertise. Getting an expert with all these skills is not always a walk in the park
+2. AutoML also reduces the amount of time it would take to develop and test a machine learning model.
+3. AutoML also reduces bias and errors that occur when a human being is designing the machine learning models.
+4. AutoML is a step towards making ML accessible to everyone.
