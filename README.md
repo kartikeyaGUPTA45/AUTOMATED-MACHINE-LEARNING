@@ -28,3 +28,14 @@ There are two major concepts to grasp as far as AutoML is concerned: -
 Neural architecture search is the process of automating the design of neural networks. Usually, reinforcement learning or evolutionary algorithms are used in the design of these networks. In reinforcement learning, models are punished for low accuracies and rewarded for high accuracies. Using this technique the model will always obtain higher accuracies.
 ### 2. Transfer Learning:
 Transfer learning is a machine learning technique where a model is trained on one problem and applying it to a different but related problem. This enables us to obtain high accuracies while using less computation time and power. Transfer learning works best for problems where the datasets are similar to the ones used in pre-trained models.
+
+# AUTOML FRAMEWORK
+Some common automl framework
+
+1. AUTO SKLEARN
+2. AUTO KERAS 
+3. H20
+4. TPOT(Tree-Based Pipeline Optimization Tool)
+5. AUTO GLUON
+6. ML Box
+7. FEATURE TOOLS
