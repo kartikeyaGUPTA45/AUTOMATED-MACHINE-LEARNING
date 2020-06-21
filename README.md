@@ -14,3 +14,5 @@ Secondly deciding which model is the best for your problem often requires more e
 ### The workflow of AutoML:
 
 Auto ML tends to automate the maximum number of steps in an ML pipeline - with a minimum amount of human effort and without compromising the model's performance.
+
+# BENEFITS OF AUTOML:
